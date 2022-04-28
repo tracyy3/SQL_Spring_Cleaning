@@ -26,7 +26,7 @@
 
 -- #2 Add a new shirt, purple polo shirt, size M last worn 50 days ago
 -- INSERT INTO shirtsdb.shirts (shirt_id,article,color,shirt_size,last_worn)
--- VALUES ( 8 , 'polo shirt' , 'purple' , 'M' , '50')
+-- VALUES ( 9 , 'polo shirt' , 'purple' , 'M' , '50')
 
 -- #3 SELECT all shirts but only print out article and color
 -- SELECT article, color FROM shirtsdb.shirts;
